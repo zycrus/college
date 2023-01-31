@@ -5,6 +5,6 @@
 
 - - -
 `Understanding soread`
-//
+<br>
 **spread within the boundaries is acceptable**
 
